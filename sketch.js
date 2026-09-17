@@ -6,8 +6,6 @@ function setup() {
 
 function draw() {
   background(20);
-  fill(255, 120, 60);
-  circle(mouseX, mouseY, 100);
   fill(222, 220, 60);
   circle(400, 233, 100);
     fill(312, 30, 60);
